@@ -11,7 +11,7 @@ Before you begin, ensure you have met the following requirements:
 
 The project is divided into two main parts:
 
-- `diss/KeyboardOptomisation`: The frontend React application.
+- `diss/KeyboardOptimisation`: The frontend React application.
 - `diss/keyboard-app`: The backend Python application.
 
 ## Quickstart
